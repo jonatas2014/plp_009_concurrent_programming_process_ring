@@ -1,2 +1,2 @@
 # plp_009_concurrent_programming_process_ring
-Programming languages paradigms assignment 009
+Programming languages paradigms course assignment 009
