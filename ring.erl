@@ -53,7 +53,7 @@ loop(Id, Pid, M) ->
     % Para qualquer outro valor que seja diferente de 1 mais uma mensagen é enviada
     Index ->
 	
-      % Envio da mensagem para o proóximo processo do anel
+      % Envio da mensagem para o próximo processo do anel
       Pid ! Index - 1,
 
       % Chamada de loop no próximo processo
